@@ -4,7 +4,7 @@ Repository for Java Selenium Framework:
 Requirments:
 
 The Internet - Login Coding Assignment
-Create the number of tests you think is necessary to test the feature for the internet login page
+Create the number of tests you think is necessary to test the feature for the internet login page, https://the-internet.herokuapp.com/login
 
 Your example must do the following:
 
